@@ -12,5 +12,6 @@ public class DataEntity {
 
     @Id
     private int id;
+
     private String data;
 }

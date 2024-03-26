@@ -1,5 +1,6 @@
-package com.example.demo.controller;
+package com.example.demo;
 
+import com.example.demo.controller.DataController;
 import com.example.demo.entity.DataEntity;
 import com.example.demo.entity.DataResponse;
 import com.example.demo.service.DataService;
